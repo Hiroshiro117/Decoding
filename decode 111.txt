@@ -1,6 +1,4 @@
-/* Aung Lin Htet 
-   CS-310 M/W lecture 
-*/
+// Aung Lin Htet
 
 
 
